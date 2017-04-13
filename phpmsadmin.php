@@ -1,7 +1,7 @@
 <?PHP
 
 /*
-Simple phpMySQL clone for Microsoft SQL Server
+Simple phpMyAdmin clone for Microsoft SQL Server
 Created by: Ian Murnane
 Last updated: 26/12/2016
 
